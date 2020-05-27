@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mandao Wenhua &#8211; Tritinia Scans</title>
+	<atom:link href="http://tritiniaman.ga/manga-author/mandao-wenhua/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tritiniaman.ga</link>
+	<description>Quality &#38; Quantity</description>
+	<lastBuildDate>Mon, 25 May 2020 10:40:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Duo Xuan Shi</title>
+		<link>http://tritiniaman.ga/manga/duo-xuan-shi/</link>
+					<comments>http://tritiniaman.ga/manga/duo-xuan-shi/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 10:40:27 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1857</guid>
+
+					<description><![CDATA[After the gold medalist agent was betrayed and killed, the mysterious beauty possessed the system and reincarnated him. Xiu Xuan’s world is dominated by hegemony, and Warlords. This world has set a small goal for Chu-Yue &#8211; becoming the strongest]]></description>
+										<content:encoded><![CDATA[<p>After the gold medalist agent was betrayed and killed, the mysterious beauty possessed the system and reincarnated him. Xiu Xuan’s world is dominated by hegemony, and Warlords. This world has set a small goal for Chu-Yue &#8211; becoming the strongest</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/duo-xuan-shi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

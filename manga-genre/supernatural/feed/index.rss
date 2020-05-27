@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Supernatural &#8211; Tritinia Scans</title>
+	<atom:link href="http://tritiniaman.ga/manga-genre/supernatural/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tritiniaman.ga</link>
+	<description>Quality &#38; Quantity</description>
+	<lastBuildDate>Mon, 25 May 2020 10:57:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Martial God&#8217;s Space</title>
+		<link>http://tritiniaman.ga/manga/martial-gods-space/</link>
+					<comments>http://tritiniaman.ga/manga/martial-gods-space/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 10:57:42 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1859</guid>
+
+					<description><![CDATA[He’s been transported to another world. And the adopted son of a powerful family. But the heavens are unjust he has bad cultivation. But heaven pitying him has given a magical space. Follow his journey in this new world&#8230;]]></description>
+										<content:encoded><![CDATA[<p>He’s been transported to another world. And the adopted son of a powerful family. But the heavens are unjust he has bad cultivation. But heaven pitying him has given a magical space. Follow his journey in this new world&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/martial-gods-space/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Panfia</title>
+		<link>http://tritiniaman.ga/manga/panfia/</link>
+					<comments>http://tritiniaman.ga/manga/panfia/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 10:10:38 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1855</guid>
+
+					<description><![CDATA[Its been 15 years after the last Great War. While the scars of wars appear to have vanished on the outside.In truth, the world has become a much harsher place.Follow the journey of Felix and Bay on their quest to find someone from their past.]]></description>
+										<content:encoded><![CDATA[<p>Its been 15 years after the last Great War. While the scars of wars appear to have vanished on the outside.In truth, the world has become a much harsher place.Follow the journey of Felix and Bay on their quest to find someone from their past.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/panfia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

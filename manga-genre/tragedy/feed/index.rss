@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tragedy &#8211; Tritinia Scans</title>
+	<atom:link href="http://tritiniaman.ga/manga-genre/tragedy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tritiniaman.ga</link>
+	<description>Quality &#38; Quantity</description>
+	<lastBuildDate>Mon, 25 May 2020 11:41:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Miracle App Store</title>
+		<link>http://tritiniaman.ga/manga/miracle-app-store/</link>
+					<comments>http://tritiniaman.ga/manga/miracle-app-store/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 11:41:05 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1861</guid>
+
+					<description><![CDATA[We&#8217;re stuck in our mundane lives. Dreaming of the lives we wish we had. But what if all your dreams could be solved with a few clicks. Would you take it?]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re stuck in our mundane lives. Dreaming of the lives we wish we had. But what if all your dreams could be solved with a few clicks. Would you take it?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/miracle-app-store/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
