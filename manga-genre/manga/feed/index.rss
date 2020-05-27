@@ -12,12 +12,30 @@
 	<atom:link href="http://tritiniaman.ga/manga-genre/manga/feed/" rel="self" type="application/rss+xml" />
 	<link>http://tritiniaman.ga</link>
 	<description>Quality &#38; Quantity</description>
-	<lastBuildDate>Mon, 25 May 2020 17:04:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 May 2020 14:07:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.1</generator>
-</channel>
+	<item>
+		<title>Live Dungeon!</title>
+		<link>http://tritiniaman.ga/manga/live-dungeon/</link>
+					<comments>http://tritiniaman.ga/manga/live-dungeon/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Tue, 26 May 2020 14:07:31 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1875</guid>
+
+					<description><![CDATA[An old MMORPG called Live Dungeon. Before the service was terminated, Kyotani Tsutomu made full use of 5 notebook PCs to clear the game and was invited to a different world. And then, Tsutomu was speechless when he saw a live relay of a dungeon capture in the different world. They bulldozed through without any...<div class="c-read-more"><a class="c-read-more-link" href="http://tritiniaman.ga/manga/live-dungeon/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>An old MMORPG called Live Dungeon. Before the service was terminated, Kyotani Tsutomu made full use of 5 notebook PCs to clear the game and was invited to a different world. And then, Tsutomu was speechless when he saw a live relay of a dungeon capture in the different world. They bulldozed through without any thought of strategy. The misfortune of getting the healer position. Tsutomu reinstated the White Mage that had always been his favorite in games and aimed to conquer the dungeon to find the key to his escape from the different world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/live-dungeon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
