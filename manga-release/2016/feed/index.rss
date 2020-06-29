@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2016 &#8211; Tritinia Scans</title>
+	<atom:link href="http://tritiniaman.ga/manga-release/2016/feed/" rel="self" type="application/rss+xml" />
+	<link>http://tritiniaman.ga</link>
+	<description>Quality &#38; Quantity</description>
+	<lastBuildDate>Sat, 06 Jun 2020 08:25:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>Kenja no Mago</title>
+		<link>http://tritiniaman.ga/manga/kenja-no-mago/</link>
+					<comments>http://tritiniaman.ga/manga/kenja-no-mago/#respond</comments>
+		
+		<dc:creator><![CDATA[Ghajik]]></dc:creator>
+		<pubDate>Sat, 06 Jun 2020 08:25:03 +0000</pubDate>
+				<guid isPermaLink="false">http://tritiniaman.ga/?post_type=wp-manga&#038;p=1884</guid>
+
+					<description><![CDATA[Thanks to various magic, the human race has been saved from calamity many, many times. Retaining his memories from his previous life, a boy, Shin, was picked up by an old man known to the world as the &#8220;Magi.&#8221; Shin was brought up by the Magi, who had retired to a secular place, as his...<div class="c-read-more"><a class="c-read-more-link" href="http://tritiniaman.ga/manga/kenja-no-mago/">Continue Reading</a> &#8594;</div>]]></description>
+										<content:encoded><![CDATA[<p>Thanks to various magic, the human race has been saved from calamity many, many times. Retaining his memories from his previous life, a boy, Shin, was picked up by an old man known to the world as the &#8220;Magi.&#8221;<br />
+Shin was brought up by the Magi, who had retired to a secular place, as his own grandson. With the memories of his past life, he absorbed the Magi&#8217;s craft and grew to be able to develop his own magic<br />
+Then, the grandfather told him he has to become independent when he reaches the age of 15.<br />
+&#8220;Ah, I forgot to teach him common sense.&#8221;<br />
+The grandson who has grown beyond the level of normal people, lacked common sense; the common sense of the world. So to learn how to socialize, he goes to Earlshide Kingdom City to be admitted to Earlshide Advanced Magic Academy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://tritiniaman.ga/manga/kenja-no-mago/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
