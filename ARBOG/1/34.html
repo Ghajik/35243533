@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2As a Result of Breaking an Otome Game, the Villainess Young Lady Becomes a Cheat!</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=edge">
+<meta name="viewport" content="initial-scale=1, user-scalable=0, maximum-scale=1">
+<style>
+#eob{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+}
+#eob .inr{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+#eob .btnClose{
+	position:absolute;
+	top:10px;
+	right:10px;
+	width:38px;
+	height:38px;
+	background:#fff;
+	cursor:pointer;
+	background:url(https://static.comic-walker.com/pc/img/endbook/btnClose.png) no-repeat;
+	background-size:38px 38px;
+	z-index:10;
+}
+#eob .nav{
+	position:absolute;
+	bottom:15px;
+	left:10px;
+	right:10px;
+	width:300px;
+	margin:0 auto;
+}
+#eob .nav .btnNext{
+	float:left;
+	width:145px;
+	height:40px;
+	margin-bottom:13px;
+	border-radius:5px;
+	background:url(https://static.comic-walker.com/pc/img/endbook/btnNextbg.png) no-repeat left center #fff;
+	background-size:12px auto;
+}
+#eob .nav .btnBack{
+	float:right;
+	background:#fff;
+	width:145px;
+	height:40px;
+	margin-bottom:13px;
+	border-radius:5px;
+	background:url(https://static.comic-walker.com/pc/img/endbook/btnBackbg.png) no-repeat right center #fff;
+	background-size:12px auto;
+}
+#eob .nav .btnNext a{
+	display:block;
+	padding:0 5px 0 15px;
+	text-decoration:none;
+	text-align:center;
+	color:#666;
+	font-size:13px;
+	line-height:40px;
+	font-weight:bold;
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	background:#fff;
+}
+#eob .nav .btnBack a{
+	display:block;
+	padding:0 15px 0 5px;
+	text-decoration:none;
+	text-align:center;
+	color:#666;
+	font-size:13px;
+	line-height:40px;
+	font-weight:bold;
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	background:#fff;
+}
+#eob .nav .btnDetail{
+	clear:both;
+	background:#f00;
+	color:#fff;
+	text-align:center;
+	border-radius:5px;
+}
+#eob .nav .btnDetail a{
+	display:block;
+	padding:0 10px 0 20px;
+	color:#fff;
+	text-decoration:none;
+	font-size:13px;
+	line-height:40px;
+	font-weight:bold;
+	background:url(https://static.comic-walker.com/pc/img/endbook/btnDetail.png) no-repeat 82px center;
+	background-size:16px 16px;
+}
+#eob .cover{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:100px;
+	margin:auto;
+	text-align:center;
+	width:300px;
+	height:300px;
+	//background:#333;
+	border-radius:5px;
+}
+#eob .campaign{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:100px;
+	margin:auto;
+	text-align:center;
+	width:300px;
+	height:300px;
+}
+#eob .cover .check{
+	background:#1EB1EE;
+	width:190px;
+	margin:10px auto 8px auto;
+	border-radius:20px;
+	height:30px;
+	overflow:hidden;
+}
+#eob .cover .check a{
+	display:block;
+	padding:0 10px;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	font-size:13px;
+	font-weight:bold;
+	line-height:30px;
+	background:#1EB1EE;
+}
+#eob .campaign .img img{
+	max-width:300px;
+	height:300px;
+}
+#eob .cover .img img{
+	max-width:300px;
+	height:242px;
+}
+#eob .bg{
+	background-color:#000;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	filter:alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+@media screen and (max-height: 420px) {
+	#eob .cover{
+		position:absolute;
+		top:0;
+		left:0;
+		right:0;
+		bottom:0;
+		margin:10px auto;
+	}
+}
+@media screen and (max-height: 420px) {
+	#eob .campaign{
+		position:absolute;
+		top:0;
+		left:0;
+		right:0;
+		bottom:0;
+		margin:10px auto;
+	}
+}
+* {
+    margin: 0;
+    padding: 0;
+	background-color: black;
+}
+</style>
+<script src="https://static.comic-walker.com/pc/js/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+	//各リンクの遷移
+ 	$(".internal_link a, .check a, .btnDetail a, .btnNext a, .btnBack a").click(function(event) {
+ 		event.preventDefault();
+ 		window.top.location.href=$(this).attr("href");//ビューワ画面のlocationを変更
+
+	    return false;
+	});
+});
+
+dataLayer = [{"contentID":"KDCW_KS01200814010000_68","episode_id":"KDCW_KS01200814010002_68","content_title":"29歳独身は異世界で自由に生きた……かった。","episode_title":"第1話","episode_number":"2","tags":"少年エース,異世界モノ,異世界,ファンタジー,異世界コミック,小説家になろう,なろう系,なろう,コミカライズ","departmentID":"CC0203"}];
+</script>
+</head>
+<body>
+<div id="eob">
+	<div class="inr">
+		<div class="cover">
+			<div class="check"><a href="https://tritiniaman.ga/" target="_top" onclick="ga('send', 'event','Viewer', 'GobackDetail_Purchase', 'KDCW_KS01200814010002_68' ,{nonInteraction: true})">Homepage</a></div>
+			<div class="img">
+				<a href="ARBOG/" target="_top" onclick="ga('send', 'event','Viewer', 'GobackDetail_Purchase', 'KDCW_KS01200814010002_68' ,{nonInteraction: true})">
+				<img src="https://mangadex.org/images/manga/47532.jpg" alt="As a Result of Breaking an Otome Game, the Villainess Young Lady Becomes a Cheat!">
+				</a>
+			</div>
+		</div>
+		<div class="nav">
+			<div class="clearfix">
+				<div class="btnNext"><a href="https://tritiniaman.ga/ARBOG/2/1.html" target="_top" onclick="ga('send', 'event','Viewer', 'ReadNext', 'KDCW_KS01200814010002_68' ,{nonInteraction: true})">Chapter 2</a></div>
+				<div class="btnBack"><a href="https://tritiniaman.ga/ARBOG/" target="_top" onclick="ga('send', 'event','Viewer', 'ReadPrevious', 'KDCW_KS01200814010002_68' ,{nonInteraction: true})">Manga</a></div>
+			</div>
+			<div class="btnDetail"><a href="https://tritiniaman.ga/ARBOG/" target="_top" onclick="ga('send', 'event','Viewer', 'GobackDetail', 'KDCW_KS01200814010002_68' ,{nonInteraction: true})">Back to Manga</a></div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
